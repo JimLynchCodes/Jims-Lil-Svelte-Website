@@ -1,7 +1,6 @@
 # Jims-Lil-Svelte-Website
 A cool little webapp that I made with Svelte!
 
-
 # Usage
 
 Please use node v12.16.1 (just because that's what I used when beginning this project):
@@ -88,3 +87,4 @@ This proejct was created with the [degit](https://github.com/Rich-Harris/degit) 
 ```bash
 npx degit sveltejs/template svelte-app
 ```
+
