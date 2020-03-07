@@ -1,6 +1,8 @@
 # Jims-Lil-Svelte-Website
 A cool little webapp that I made with Svelte!
 
+Try it out: https://jimlynchcodes.github.io/Jims-Lil-Svelte-Website/
+
 # Usage
 
 Please use node v12.16.1 (just because that's what I used when beginning this project):
@@ -42,7 +44,7 @@ Run this command, and it should push your "public" folder to the gh-pages branch
 ```
 npm run deploy-gh
 ```
-For my project, it then updates the site here:
+For my project, it then updates the site here: https://jimlynchcodes.github.io/Jims-Lil-Svelte-Website/
 
 
 ## Deploying Other Places
